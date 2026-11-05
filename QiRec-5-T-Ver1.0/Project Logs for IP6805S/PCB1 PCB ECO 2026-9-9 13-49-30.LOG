@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Member To Class: ClassName=Sheet1 Member=Component *3 ÂÝË¿¿×_1
+Added Rule: Name=Schematic Supply Nets

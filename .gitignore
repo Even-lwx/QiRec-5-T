@@ -1,0 +1,15 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*.tmp
+*.bak
+~$*
+
+# Altium generated history, previews, logs and output
+**/History/
+**/__Previews/
+**/Project Logs/
+**/Project Outputs/
