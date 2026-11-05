@@ -11,5 +11,5 @@ desktop.ini
 # Altium generated history, previews, logs and output
 **/History/
 **/__Previews/
-**/Project Logs/
-**/Project Outputs/
+**/Project Logs*/
+**/Project Outputs*/
